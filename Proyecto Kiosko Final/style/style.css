@@ -1,0 +1,113 @@
+.contenido{
+    padding-top: 2rem;
+    padding-bottom: 15rem;
+    background-color: #FFCB9C;
+}
+.titulo{
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+#subtitulo{
+    padding-bottom: 1rem;
+}
+.navbar{
+    background-color: #FF5B65;
+}
+
+#modooscuro{
+    border: none;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+    background-color: white;
+    position: relative;
+    left: 1rem;
+}
+.producto{
+    margin-bottom: 1rem;
+}
+.btnEliminar{
+    border: none;
+    background-color: #54CAB8;
+    color: black;
+    margin-left: 0.5rem;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 2rem;
+}
+.btnEliminar:hover{
+    border-radius: 2rem;
+    color: red;
+    background-color: white;
+}
+.nuevoProducto{
+    margin-bottom: 0.5rem;
+}
+footer{
+    padding-top: 2rem;
+    background-color: #FF5B65;
+    height: 10rem;
+}
+.iconos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+.bi{
+    padding: 1rem;
+    color: black;
+    font-size:larger;
+}
+
+.card{
+    background-color: #FC9093;
+}
+
+.btn{
+    background-color: #53c4b3;
+    color: black;
+}
+
+.bodyDark{
+    background-color: rgb(44, 43, 43) ;
+    color: white;
+
+}
+
+.headerDark{
+    background-color: #c53942 ;
+    color: white;
+}
+
+.card1{
+    background-color: grey;
+    border: none;
+    color: black;
+}
+
+.card2{
+    background-color: grey;
+    border: none;
+    color: black;
+}
+
+.card3{
+    background-color: gray;
+    border: none;
+    color: black;
+}
+
+#titulo-desc{
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+#subtitulo-desc{
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+    font-size: x-large;
+}
